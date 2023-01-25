@@ -6,5 +6,10 @@ export default function getResponseFromAPI() {
     setTimeout(()=> {
       reject("No Promise")
     }, 2000);
-  })
+  });
+  Promise.then((response) => {
+    log(response);
+  }).catch((error) => {
+    log(error);
+  });
 }
