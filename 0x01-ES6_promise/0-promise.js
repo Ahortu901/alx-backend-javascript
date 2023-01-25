@@ -1,10 +1,10 @@
 export default function getResponseFromAPI() {
   const promise = new Promise((resolve, reject) => {
     setTimeout(() => {
-      resolve("Promise");
+      resolve("ture");
     }, 3000);
     setTimeout(()=> {
-      reject("No Promise")
+      reject("Not true")
     }, 2000);
   });
   Promise.then((response) => {
