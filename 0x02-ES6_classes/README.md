@@ -36,5 +36,5 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ## Software engineer
 Ahortu Derrick  
 :octocat: [GitHub](https://github.com/Ahortu901/)
-:octocat: [WhatsApp](https://wa.me/+233558039093)
-:octocat: [Email](mailto:ahortuderrick0@gmail.com)
+:whatsapp: [WhatsApp](https://wa.me/+233558039093)
+:mail: [Email](mailto:ahortuderrick0@gmail.com)
